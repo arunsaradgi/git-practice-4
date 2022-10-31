@@ -7,7 +7,7 @@ for (let i = str.length - 1; i >= 0; i--) {
 }
 
 if (str == rev_str) {
-  console.log("jhsghdhfjhasfjh");
+  console.log("palidrome");
 } else {
   console.log("no");
-};
+}

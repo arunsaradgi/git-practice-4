@@ -7,7 +7,7 @@ for (let i = 2; i <= num / 2; i++) {
   }
 }
 if (count == 0) {
-  console.log("iauhdfjnsdhfgasjdbnc");
+  console.log("prime no");
 } else {
   console.log("not prime");
 }
